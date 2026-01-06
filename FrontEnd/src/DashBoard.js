@@ -57,12 +57,15 @@ export default function DashBoard() {
       if (res.data.message === "Fail") {
         toast.error("Fail to load!");
       }
+      else if(res.data.message==="Fail to process"){
+        setLoader(false);
+        toast.error("Please upload a text-based PDF.");
+      }
       else {
         setLoader(false);
         setlistPlans(true);
         toast.success("Plan Generated..!");
         setStudyPlan(res.data.message);
-        console.log(res.data.message)
       }
 
     }).catch((err) => {
