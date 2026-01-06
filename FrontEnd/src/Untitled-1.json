@@ -1,0 +1,1645 @@
+{
+    "title": "BCA Third Year Exam Study Plan",
+    "generatedOn": "2026-01-05",
+    "totalWeeks": 13,
+    "plan": [
+        {
+            "week": 1,
+            "day": "Monday",
+            "date": "2026-01-05",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Introduction - Evolving Role of Software",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Introduction, Features & Capabilities",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 1,
+            "day": "Tuesday",
+            "date": "2026-01-06",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Interpreter, Data Types & Variables",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Introduction to .Net Technology & Framework",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 1,
+            "day": "Wednesday",
+            "date": "2026-01-07",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: .Net Architecture & Common Language Runtime (CLR)",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Definition & Concept of Software Engineering",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 1,
+            "day": "Thursday",
+            "date": "2026-01-08",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Software Characteristics & Applications",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Comments, Operators & Expressions",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 1,
+            "day": "Friday",
+            "date": "2026-01-09",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Input, Processing & Output Statements",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: IDE Components & Intellisense",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 1,
+            "day": "Saturday",
+            "date": "2026-01-10",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Project Types & Java vs C# Comparison (Unit I Review)",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Software Evolution, Crisis & Horizon",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 1,
+            "day": "Sunday",
+            "date": "2026-01-11",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Software Myths (Unit I Review)",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Control Structures - Loops (for, while)",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 2,
+            "day": "Monday",
+            "date": "2026-01-12",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Control Structures - Decision (if, elif, else) (Unit I Review)",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Important Classes in Windows Application",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 2,
+            "day": "Tuesday",
+            "date": "2026-01-13",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Creating & Customizing Windows Forms",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: SDLC Introduction & Activities",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 2,
+            "day": "Wednesday",
+            "date": "2026-01-14",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: A Generic Process Model",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Strings, Operations & Slicing",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 2,
+            "day": "Thursday",
+            "date": "2026-01-15",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Defining Classes & Objects (OOP Concepts)",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: TextBox & Label Control",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 2,
+            "day": "Friday",
+            "date": "2026-01-16",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Button, Checkbox, Radio Button Controls",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Prescriptive Process Models - Waterfall Model",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 2,
+            "day": "Saturday",
+            "date": "2026-01-17",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Prescriptive Process Models - Incremental Models",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Defining & Calling Functions, Arguments",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 2,
+            "day": "Sunday",
+            "date": "2026-01-18",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: OOP - Inheritance",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Listbox & ComboBox Controls (Unit II Review)",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 3,
+            "day": "Monday",
+            "date": "2026-01-19",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Menus & Dialog Boxes Implementation",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Evolutionary Process Models - Prototyping",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 3,
+            "day": "Tuesday",
+            "date": "2026-01-20",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Evolutionary Process Models - Spiral Model",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: OOP - Polymorphism (Unit II Review)",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 3,
+            "day": "Wednesday",
+            "date": "2026-01-21",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Modules - datetime, math & usage",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: C# Functions - Call by Value & Reference",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 3,
+            "day": "Thursday",
+            "date": "2026-01-22",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Out Parameters & Function Overloading (Unit III Review)",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Concurrent Models & Types (Unit II Review)",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 3,
+            "day": "Friday",
+            "date": "2026-01-23",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Analysis & Design Tools - Decision Tree & Table",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Packages & Package Management",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 3,
+            "day": "Saturday",
+            "date": "2026-01-24",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Exception Handling - Concepts & Roles",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Arrays & ArrayList Class",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 3,
+            "day": "Sunday",
+            "date": "2026-01-25",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Jagged Arrays & String Class",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Data Flow Diagrams (DFD) Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 4,
+            "day": "Monday",
+            "date": "2026-01-26",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Data Flow Diagrams (DFD) Applications",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Implementing Exception Handling (Unit III Review)",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 4,
+            "day": "Tuesday",
+            "date": "2026-01-27",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Collections - List (Operations & Methods)",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Properties & Indexers",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 4,
+            "day": "Wednesday",
+            "date": "2026-01-28",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Delegates & Multicast Delegates",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Data Dictionary - Elements & Advantages",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 4,
+            "day": "Thursday",
+            "date": "2026-01-29",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Input and Output Design Principles",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Collections - Tuples (Operations & Use Cases)",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 4,
+            "day": "Friday",
+            "date": "2026-01-30",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Collections - Dictionaries (Operations & Methods)",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Custom Events (Unit III Review)",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 4,
+            "day": "Saturday",
+            "date": "2026-01-31",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Introduction to ADO.NET",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: PseudoCode Basics (Unit III Review)",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 5,
+            "day": "Sunday",
+            "date": "2026-02-01",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Software Testing - Definition & Principles",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Collections - Sets (Operations & Methods) (Unit III Review)",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 5,
+            "day": "Monday",
+            "date": "2026-02-02",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: GUI Programming - Concepts & Tkinter",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Advantages of ADO.NET",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 5,
+            "day": "Tuesday",
+            "date": "2026-02-03",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Developing Simple ADO.NET Applications",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Verification and Validation",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 5,
+            "day": "Wednesday",
+            "date": "2026-02-04",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Black Box Testing Techniques",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Tkinter - Labels, Text, Buttons",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 5,
+            "day": "Thursday",
+            "date": "2026-02-05",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Tkinter - Dialog Boxes, Radiobuttons, Checkbuttons",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Retrieving & Updating Data from Tables",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 5,
+            "day": "Friday",
+            "date": "2026-02-06",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Disconnected Data Access - Dataset Objects (Unit IV Review)",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: White Box Testing Techniques",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 5,
+            "day": "Saturday",
+            "date": "2026-02-07",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Unit Testing & Integration Testing (Unit IV Review)",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Tkinter - Getting User Input (Unit IV Review)",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 6,
+            "day": "Sunday",
+            "date": "2026-02-08",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Database Connectivity - MySQL for Python",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Comprehensive Review of Windows Forms & DB",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 6,
+            "day": "Monday",
+            "date": "2026-02-09",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Exam Prep & Key Concepts Recap",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Comprehensive Review of SDLC & Testing",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 6,
+            "day": "Tuesday",
+            "date": "2026-02-10",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Exam Prep & Key Concepts Recap",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Connecting to MySQL & Forming Queries",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 6,
+            "day": "Wednesday",
+            "date": "2026-02-11",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Passing Queries & Retrieving Data (Unit IV Review)",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 6,
+            "day": "Thursday",
+            "date": "2026-02-12",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 6,
+            "day": "Friday",
+            "date": "2026-02-13",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Comprehensive Review & Advanced Topics",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 6,
+            "day": "Saturday",
+            "date": "2026-02-14",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Exam Prep & Key Concepts Recap",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 7,
+            "day": "Sunday",
+            "date": "2026-02-15",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 7,
+            "day": "Monday",
+            "date": "2026-02-16",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 7,
+            "day": "Tuesday",
+            "date": "2026-02-17",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 7,
+            "day": "Wednesday",
+            "date": "2026-02-18",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 7,
+            "day": "Thursday",
+            "date": "2026-02-19",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 7,
+            "day": "Friday",
+            "date": "2026-02-20",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 7,
+            "day": "Saturday",
+            "date": "2026-02-21",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 8,
+            "day": "Sunday",
+            "date": "2026-02-22",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 8,
+            "day": "Monday",
+            "date": "2026-02-23",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 8,
+            "day": "Tuesday",
+            "date": "2026-02-24",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 8,
+            "day": "Wednesday",
+            "date": "2026-02-25",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 8,
+            "day": "Thursday",
+            "date": "2026-02-26",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 8,
+            "day": "Friday",
+            "date": "2026-02-27",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 8,
+            "day": "Saturday",
+            "date": "2026-02-28",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 9,
+            "day": "Sunday",
+            "date": "2026-03-01",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 9,
+            "day": "Monday",
+            "date": "2026-03-02",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 9,
+            "day": "Tuesday",
+            "date": "2026-03-03",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 9,
+            "day": "Wednesday",
+            "date": "2026-03-04",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 9,
+            "day": "Thursday",
+            "date": "2026-03-05",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 9,
+            "day": "Friday",
+            "date": "2026-03-06",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 9,
+            "day": "Saturday",
+            "date": "2026-03-07",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 10,
+            "day": "Sunday",
+            "date": "2026-03-08",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 10,
+            "day": "Monday",
+            "date": "2026-03-09",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 10,
+            "day": "Tuesday",
+            "date": "2026-03-10",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 10,
+            "day": "Wednesday",
+            "date": "2026-03-11",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 10,
+            "day": "Thursday",
+            "date": "2026-03-12",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 10,
+            "day": "Friday",
+            "date": "2026-03-13",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 10,
+            "day": "Saturday",
+            "date": "2026-03-14",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 11,
+            "day": "Sunday",
+            "date": "2026-03-15",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 11,
+            "day": "Monday",
+            "date": "2026-03-16",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 11,
+            "day": "Tuesday",
+            "date": "2026-03-17",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 11,
+            "day": "Wednesday",
+            "date": "2026-03-18",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 11,
+            "day": "Thursday",
+            "date": "2026-03-19",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 11,
+            "day": "Friday",
+            "date": "2026-03-20",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 11,
+            "day": "Saturday",
+            "date": "2026-03-21",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 12,
+            "day": "Sunday",
+            "date": "2026-03-22",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 12,
+            "day": "Monday",
+            "date": "2026-03-23",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 12,
+            "day": "Tuesday",
+            "date": "2026-03-24",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 12,
+            "day": "Wednesday",
+            "date": "2026-03-25",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 12,
+            "day": "Thursday",
+            "date": "2026-03-26",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 12,
+            "day": "Friday",
+            "date": "2026-03-27",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 12,
+            "day": "Saturday",
+            "date": "2026-03-28",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 13,
+            "day": "Sunday",
+            "date": "2026-03-29",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 13,
+            "day": "Monday",
+            "date": "2026-03-30",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 13,
+            "day": "Tuesday",
+            "date": "2026-03-31",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 13,
+            "day": "Wednesday",
+            "date": "2026-04-01",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 13,
+            "day": "Thursday",
+            "date": "2026-04-02",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 13,
+            "day": "Friday",
+            "date": "2026-04-03",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Python",
+                    "topic": "Python: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 13,
+            "day": "Saturday",
+            "date": "2026-04-04",
+            "break": "15-minute stretch or short refreshment break.",
+            "subjects": [
+                {
+                    "name": "Windows Programming",
+                    "topic": "WP: Review & Advanced Concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Software Engineering",
+                    "topic": "SE: Review & Advanced Concepts",
+                    "duration": 1
+                }
+            ]
+        },
+        {
+            "week": 13,
+            "day": "Sunday",
+            "date": "2026-04-05",
+            "break": "Final exam preparation. Light review or rest recommended.",
+            "subjects": [
+                {
+                    "name": "Software Engineering",
+                    "topic": "Last minute review of key SE concepts",
+                    "duration": 1
+                },
+                {
+                    "name": "Python",
+                    "topic": "Last minute review of key Python concepts",
+                    "duration": 1
+                }
+            ]
+        }
+    ]
+}

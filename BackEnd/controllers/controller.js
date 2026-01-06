@@ -1,0 +1,17 @@
+import { chatbot } from '../chatbot/genSchedule.js';
+const {handlePdf}=await import('../utils/pdfExtractor.cjs');
+export async function controller(req, res) {
+    try {
+        const text = await handlePdf(req,res);
+        const result = await chatbot(req.body, text);
+        if (result) {
+            res.status(200).json({ message: result });
+        }
+        else {
+            res.status(500).json({ message: "Fail" });
+        }
+    }
+    catch (err) {
+        res.status(500).json({ message: "Fail" });
+    }
+}

@@ -1,0 +1,273 @@
+.dash-body {
+    padding: 25px;
+    background-color: #f8f8f8;
+    min-height: 100vh;
+}
+
+.login-title-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100px;
+
+}
+
+.login-header {
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+.user-name {
+    background: linear-gradient(90deg, #4F6CF7 0%, #00A6A6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.login-subtxt {
+    color: grey;
+}
+
+.dash-box-section {
+    min-height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 5%;
+}
+
+.dash-box {
+    height: 90px;
+    width: 30%;
+    background: white !important;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+.dash-txt-section {
+    display: flex;
+    height: 40%;
+}
+
+.dash-subtxt {
+    color: grey;
+    width: 90%;
+}
+
+.dash-icon .material-symbols-outlined {
+    color: #00A6A6;
+
+}
+
+.dash-icon {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.start-btn-section {
+    min-height: 90px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.create-btn {
+    display: flex;
+    vertical-align: middle;
+    gap: 10px;
+    background-color: #4F6CF7;
+    color: white;
+    width: 40%;
+    justify-content: center;
+    height: 40px;
+    align-items: center;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 50%;
+}
+
+.pormodoro-btn {
+    display: flex;
+    vertical-align: middle;
+    gap: 10px;
+    border: 1px solid #e5e7eb;
+    width: 50%;
+    justify-content: center;
+    height: 40px;
+    align-items: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.pormodoro-btn:hover {
+    border: 1px solid black;
+}
+
+.heading {
+    height: 65px;
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.plan-box {
+    height: 100px;
+    width: 100%;
+    border: 1px solid #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    background-color: white !important;
+    padding: 13px;
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+.plan-box-plane1 {
+    display: flex;
+    height: 70%;
+    width: 100%;
+}
+
+.sub-plan-txt {
+    width: 50%;
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+.plan-box-opt-section {
+    display: flex;
+    width: 50%;
+    gap: 10px;
+    justify-content: end !important;
+}
+
+.plan-box-opt {
+    height: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    min-width: 40px;
+    width: auto;
+    max-width: 120px;
+    border: 1px solid #e5e7eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    border-radius: 10px;
+    background-color: #f5f7fb;
+    cursor: pointer;
+}
+
+.plan-box-plane2 {
+    display: flex;
+    height: 30%;
+    width: 100%;
+    gap: 30px;
+    align-items: center;
+    color: grey;
+
+}
+
+.timer-sec {
+    display: flex;
+    vertical-align: middle;
+    gap: 5px;
+}
+
+.form-body {
+    min-height: 300px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 20px;
+    animation: appear 0.8s ease forwards;
+}
+
+.form-heading {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.form-div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.form-div-middle {
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    width: 100%;
+}
+
+.form-div-middle label,
+.form-div-middle input {
+    width: 100%;
+
+}
+
+.form-div label {
+    font-weight: 600;
+}
+
+.form-div input,
+.form-div select {
+    border-radius: 5px;
+    border: 1px solid #dfe0e1;
+    height: 35px;
+    padding-left: 10px;
+}
+
+.form-btn {
+    gap: 10px;
+}
+
+.gen-btn {
+    width: 90%;
+    height: 40px;
+    color: white;
+    background-color: #4F6CF7;
+    border: 1px solid #dfe0e1;
+    border-radius: 5px;
+    margin-right: 1%;
+}
+.cancl-btn{
+    width: 7%;
+    background-color: #f5f7fb;
+    color: black !important;
+}
+.no-plan-body{
+    height: 250px;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 1px solid #dfe0e1;
+}
+.no-plan-body .material-symbols-outlined{
+    font-size: 65px;
+    color: grey;
+}
+input[type="file"]{
+    padding-left: 0px;
+}
+.file-input::-webkit-file-upload-button{
+    height: 100%;
+}
+@keyframes appear {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
