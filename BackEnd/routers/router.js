@@ -1,6 +1,6 @@
 import express from 'express';
 import multer from 'multer';
-import {controller} from '../controllers/controller.js';
+import {controller,sendMessage} from '../controllers/controller.js';
 const router=express.Router();
 
 const upload = multer({
@@ -8,5 +8,5 @@ const upload = multer({
 });
 
 router.post('/chatbot/input',upload.single("syllabus"),controller);
-
+router.get('/',sendMessage);
 export default router;

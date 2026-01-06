@@ -15,3 +15,6 @@ export async function controller(req, res) {
         res.status(500).json({ message: "Fail" });
     }
 }
+export async function sendMessage(req,res){
+    res.status(200).json({data:"Server is listening"})
+}
