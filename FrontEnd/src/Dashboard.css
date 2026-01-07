@@ -271,3 +271,23 @@ input[type="file"]{
         opacity: 1;
     }
 }
+@media (max-width:460px){
+    
+.dash-body {
+    padding: 12px;
+    min-height: auto !important;
+}
+.dash-box {
+width: 47%;
+margin-top: 15px;
+}
+.pormodoro-btn {
+    padding-right: 2px;
+}
+.no-plan-body {
+padding: 10px;
+}
+.subtxt{
+    text-align: center;
+}
+}

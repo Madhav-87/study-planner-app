@@ -153,6 +153,7 @@
     color: white;
     flex-direction: column;
     row-gap: 15px;
+    text-align: center;
 }
 .startJouBtn{
     border: none !important;
@@ -183,4 +184,20 @@
         opacity: 1;
         transform: translateY(0px);
     }
+}
+@media (max-width:460px) {
+    .title-section{
+        width: 50%;
+    }
+    
+.title-headline {
+font-size: 25px;
+}
+.title-subtxt{
+    font-size: 16px;
+    width: 97%;
+}
+.card{
+    margin-bottom: 15px;
+}
 }

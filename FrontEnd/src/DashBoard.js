@@ -117,7 +117,7 @@ export default function DashBoard() {
       <div className='dash-body'>
         <div className='login-title-section'>
           <div className='login-header'>
-            Welcome back, <span className='user-name'>Omkar</span>
+            Welcome back!
           </div>
           <div className='login-subtxt'>
             Create and manage your personalized study plans with AI assistance

@@ -16,10 +16,7 @@ export default function Login() {
                         Study AI
                     </div>
                 </div>
-                <div className='account-btn-section'>
-                    <div><button className='login-btn'>Login</button></div>
-                    <div><button className='signUp-btn'>Sign Up</button></div>
-                </div>
+                
             </div>
             <div className='title-headline-section'>
                 <div className='title-headline'>
@@ -57,17 +54,6 @@ export default function Login() {
                                 </span>
                             </div>
                             <h5 class="card-title">Pormodoro Timer</h5>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-body">
-                            <div className='card-icon'>
-                                <span class="material-symbols-outlined lightGreen">
-                                    bolt
-                                </span>
-                            </div>
-                            <h5 class="card-title">Smart Rescheduling</h5>
                             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
                         </div>
                     </div>

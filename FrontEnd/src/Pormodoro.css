@@ -117,3 +117,35 @@
         transform:rotate(-360deg);
     }
 }
+@media (max-width:460px) {
+    .pormo-body{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .header-section .subtxt{
+        display: none;
+    }
+    .subtxt{
+       text-align: start; 
+    }
+    .study-box {
+        min-height: 200px;
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:start ;
+        margin-bottom: 20px;
+    }
+    .timer-info-box {
+        height: 150px !important;
+        width: 46%;
+        margin-top: 10px;
+    }
+    .poromodoro-tips-section {
+        height: auto;
+        padding: 15px;
+    }
+    ul li{
+        line-height: 30px;
+    }
+}
