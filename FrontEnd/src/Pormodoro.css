@@ -122,6 +122,9 @@
         padding-left: 10px;
         padding-right: 10px;
     }
+    .header-section h3{
+        margin-bottom: 0px;
+    }
     .header-section .subtxt{
         display: none;
     }
@@ -136,6 +139,11 @@
         justify-content:start ;
         margin-bottom: 20px;
     }
+     .study-box .timer-info-box:first-child{
+        width: 49%;
+        padding-left:2px ;
+        padding-right: 2px;
+     }
     .timer-info-box {
         height: 150px !important;
         width: 46%;
