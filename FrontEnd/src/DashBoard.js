@@ -143,7 +143,7 @@ export default function DashBoard() {
                 </span>
               </div>
             </div>
-            <div className='dash-icon'>
+            <div className='dash-icon mt-2'>
               1
             </div>
           </div>
@@ -158,7 +158,7 @@ export default function DashBoard() {
                 </span>
               </div>
             </div>
-            <div className='dash-icon'>
+            <div className='dash-icon mt-2'>
               1
             </div>
           </div>
@@ -173,7 +173,7 @@ export default function DashBoard() {
                 </span>
               </div>
             </div>
-            <div className='dash-icon'>
+            <div className='dash-icon mt-2'>
               {localStorage.getItem("hoursPerDay")?localStorage.getItem("hoursPerDay"):0}
             </div>
           </div>
@@ -231,20 +231,9 @@ export default function DashBoard() {
                           </span>
                           {isMobile?null:<span>View</span>}
                         </div>
-                        <div className='plan-box-opt'>
-                          <span class="material-symbols-outlined">
-                            download
-                          </span>
-                          {isMobile?null:<span>Download</span>}
-                        </div>
-                        <div className='plan-box-opt'>
-                          <span class="material-symbols-outlined text-danger">
-                            delete_forever
-                          </span>
-                        </div>
                       </div>
                     </div>
-                    <div className='plan-box-plane2'>
+                    <div className='plan-box-plane2 mt-2'>
                       <div className='d-flex gap-2'>
                         <div className='d-flex vertical-alignment-middle gap-1'>
                           <span class="material-symbols-outlined">
