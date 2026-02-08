@@ -12,7 +12,7 @@ export default function Header() {
               </span>
             </div>
             <div>
-              Study AI
+              IntelliStudy
             </div>
           </div>
         </div>

@@ -17,7 +17,13 @@
   break-inside: avoid;
   page-break-inside: avoid;
 }
-
+.buttons-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    gap: 10px;
+}
 .week-heading {
   break-before: page;
 }

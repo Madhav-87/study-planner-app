@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react'
 import './studyPlan.css';
 import html2canvas from "html2canvas";
 import { jsPDF } from 'jspdf';
-export default function StudyPlan({ studyPlan }) {
+export default function StudyPlan({ studyPlan ,view,setView}) {
     if (!studyPlan) {
         return (<div>
             Study Plan is Loading...
@@ -44,7 +44,10 @@ export default function StudyPlan({ studyPlan }) {
             <div className='study-plan-box'>
                 <div className='study-plan-view'>
                     <div className='heading-txt'>{studyPlan.title}</div>
-                    <div ><button type="button" onClick={() => { download(studyPlan.title) }}>Download</button></div>
+                    <div className="buttons-block">
+                        <button type="button" onClick={() => { download(studyPlan.title) }}>Download</button>
+                        <button type="button" onClick={()=>{setView(false)}}>Close</button>
+                    </div>
                     <div className='heading-subtxt'>Generated on {studyPlan.generatedOn}</div>
                     {
                         Object.keys(studyPlan["weeklyPlan"]).map((weekNum) => {

@@ -13,10 +13,9 @@ export default function Login() {
                         </span>
                     </div>
                     <div>
-                        Study AI
+                        IntelliStudy
                     </div>
                 </div>
-                
             </div>
             <div className='title-headline-section'>
                 <div className='title-headline'>
@@ -79,7 +78,7 @@ export default function Login() {
                 <div><span class="material-symbols-outlined">
                     copyright
                 </span></div>
-                <div>2025 Study AI. All rights reserved.</div>
+                <div>2025 IntelliStudy. All rights reserved.</div>
             </div>
         </div>
     )

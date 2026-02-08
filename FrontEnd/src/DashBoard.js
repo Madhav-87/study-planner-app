@@ -8,6 +8,7 @@ import { toast, ToastContainer } from 'react-toastify';
 import { upload } from '@testing-library/user-event/dist/upload';
 import Loader from './components/Loader';
 import StudyPlan from './StudyPlan';
+import {isMobile} from "react-device-detect"
 export default function DashBoard() {
   const navigate = useNavigate();
   let [createPlan, setPlan] = useState(false);
@@ -102,7 +103,7 @@ export default function DashBoard() {
       {
         view
         ?
-        <StudyPlan studyPlan={studyPlan}></StudyPlan>
+        (<StudyPlan studyPlan={studyPlan} view={view} setView={setView}></StudyPlan>)
         :
         null
       }
@@ -221,13 +222,13 @@ export default function DashBoard() {
                           <span class="material-symbols-outlined">
                             visibility
                           </span>
-                          <span>View</span>
+                          {isMobile?null:<span>View</span>}
                         </div>
                         <div className='plan-box-opt'>
                           <span class="material-symbols-outlined">
                             download
                           </span>
-                          <span>Download</span>
+                          {isMobile?null:<span>Download</span>}
                         </div>
                         <div className='plan-box-opt'>
                           <span class="material-symbols-outlined text-danger">
