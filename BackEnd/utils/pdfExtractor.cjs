@@ -9,7 +9,7 @@ const handlePdf=async (req,res)=>{
         
         let extractedTxt=data.text.trim();
         if(extractedTxt.length<100){
-            return "fail to process!"
+            return "fail to process!";
         }
         return extractedTxt;
     }

@@ -43,7 +43,7 @@ export default function Pormodoro() {
             }
         }
         return () => { clearInterval(timer) }//React clean up interval when new effect run
-    }, [isRunning, time]);
+    }, [isRunning,volume, time]);
     const formatTime = () => {
         let min = Math.floor(time / 60);
         let sec = time % 60;
