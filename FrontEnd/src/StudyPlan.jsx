@@ -1,8 +1,6 @@
-import React, { useEffect, useRef } from 'react'
 import './studyPlan.css';
-import html2canvas from "html2canvas";
 import { jsPDF } from 'jspdf';
-export default function StudyPlan({ studyPlan ,view,setView}) {
+export default function StudyPlan({ studyPlan ,setView}) {
     if (!studyPlan) {
         return (<div>
             Study Plan is Loading...

@@ -1,11 +1,9 @@
-import React, { useEffect, useState } from 'react'
+import  { useEffect, useState } from 'react'
 import './Dashboard.css';
 import Header from './components/Header';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import { Toast } from 'bootstrap';
 import { toast, ToastContainer } from 'react-toastify';
-import { upload } from '@testing-library/user-event/dist/upload';
 import Loader from './components/Loader';
 import StudyPlan from './StudyPlan';
 import {isMobile} from "react-device-detect"
