@@ -28,7 +28,6 @@ export default function Login() {
                 </div>
                 <div className='title-button-section'>
                     <button className='signUp-btn getStarted-btn' onClick={()=>{navigate("/dashboard")}}>Get Started</button>
-                    <button className='learn-btn'>Learn More</button>
                 </div>
             </div>
             <div className='title-cards-section'>
