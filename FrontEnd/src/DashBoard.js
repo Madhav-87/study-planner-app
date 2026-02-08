@@ -34,6 +34,14 @@ export default function DashBoard() {
     setInputData(obj);
 
   }
+  useEffect(()=>{
+    if(view===false){
+    clearStorage()
+  }
+  },[view]);
+  function clearStorage(){
+    localStorage.removeItem("hoursPerDay")
+  }
   const submitForm = (e) => {
     e.preventDefault();
     if (!pdf) {
@@ -96,6 +104,7 @@ export default function DashBoard() {
     )
   }
 
+
   return (
     <div >
       <ToastContainer/>
@@ -128,7 +137,7 @@ export default function DashBoard() {
           <div className='dash-box'>
             <div className='dash-txt-section'>
               <div className='dash-subtxt'>
-                Total Plans
+                Total Plans limit
               </div>
               <div className='dash-icon'>
                 <span class="material-symbols-outlined">
@@ -143,7 +152,7 @@ export default function DashBoard() {
           <div className='dash-box'>
             <div className='dash-txt-section'>
               <div className='dash-subtxt'>
-                Active Plans
+                Active Plans limit
               </div>
               <div className='dash-icon'>
                 <span class="material-symbols-outlined">
@@ -158,7 +167,7 @@ export default function DashBoard() {
           <div className='dash-box'>
             <div className='dash-txt-section'>
               <div className='dash-subtxt'>
-                Study Hours
+                Study Hours limit
               </div>
               <div className='dash-icon'>
                 <span class="material-symbols-outlined">
@@ -167,7 +176,7 @@ export default function DashBoard() {
               </div>
             </div>
             <div className='dash-icon'>
-              {localStorage.getItem("hoursPerDay")}
+              {localStorage.getItem("hoursPerDay")?localStorage.getItem("hoursPerDay"):0}
             </div>
           </div>
         </div>
