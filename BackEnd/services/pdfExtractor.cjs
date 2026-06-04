@@ -1,0 +1,22 @@
+const fs = require("fs-extra");
+const path = require("path");
+const pdf = require("pdf-parse");
+
+const handlePdf=async (req,res,next)=>{
+    try{
+        const buffer = req.file.buffer;
+        const data=await pdf(buffer);
+        
+        let extractedTxt=data.text.trim();
+        if(extractedTxt.length<100){
+            return "fail to process!";
+        }
+        return extractedTxt;
+    }
+    catch(err){
+        throw(err);
+    }
+}
+module.exports={
+    handlePdf
+}

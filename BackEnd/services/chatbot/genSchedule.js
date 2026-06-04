@@ -103,7 +103,7 @@ Compressing multiple days into one entry
 Returning partial or summarized plans
 `;
 const genAI=new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-export async function chatbot(inputData,text) {
+export async function chatbot(inputData,text,next) {
     try{
         const prompt=`
         Generate the study plan for user as per below data:
@@ -123,7 +123,6 @@ export async function chatbot(inputData,text) {
         return JSON.parse(jsonMatch[0]);
     }
     catch(err){
-        console.log(err);
-        return false;
+        throw(err);
     }
 }
