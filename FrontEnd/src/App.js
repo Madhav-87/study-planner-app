@@ -1,17 +1,11 @@
 
 import './App.css';
-import Login from './Login.js';
-import DashBoard from './DashBoard.js';
-import Pormodoro from './Pormodoro.js';
-import { BrowserRouter as Router,Routes,Route } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
+import AppRoutes from './routes/AppRoutes';
 function App() {
   return (
     <Router>
-      <Routes>
-        <Route path="/" element={<Login/>}></Route>
-        <Route path="/dashboard" element={<DashBoard/>}></Route>
-        <Route path="/dashboard/timer" element={<Pormodoro/>}></Route>
-      </Routes>
+      <AppRoutes/>
     </Router>
   );
 }

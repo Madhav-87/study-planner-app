@@ -1,13 +1,16 @@
 import  { useEffect, useState } from 'react'
 import './Dashboard.css';
-import Header from './components/Header';
+import Header from '../../components/Header/Header';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import { toast, ToastContainer } from 'react-toastify';
-import Loader from './components/Loader';
-import StudyPlan from './StudyPlan';
+import Loader from '../../components/Loader/Loader';
+import StudyPlan from '../StudyPlan/StudyPlan';
 import {isMobile} from "react-device-detect"
 export default function DashBoard() {
+  useEffect(()=>{
+    localStorage.clear();
+  },[]);
   const navigate = useNavigate();
   let [createPlan, setPlan] = useState(false);
   let [plans, setlistPlans] = useState(false);
@@ -32,14 +35,6 @@ export default function DashBoard() {
     setInputData(obj);
 
   }
-  useEffect(()=>{
-    if(view===false){
-    clearStorage()
-  }
-  },[view]);
-  function clearStorage(){
-    localStorage.removeItem("hoursPerDay")
-  }
   const submitForm = (e) => {
     e.preventDefault();
     if (!pdf) {
@@ -59,7 +54,7 @@ export default function DashBoard() {
     formData.append("todayDate", inputData.todayDate);
 
     // file
-    formData.append("syllabus", pdf); // 👈 KEY PART
+    formData.append("syllabus", pdf); //  KEY PART
     axios.post(`${process.env.REACT_APP_API}/chatbot/input`, formData).then((res) => {
       if (res.data.message === "Fail") {
         toast.error("Fail to load!");
@@ -221,7 +216,7 @@ export default function DashBoard() {
                       <div className='sub-plan-txt'>{
                       localStorage.getItem("subjects").length>2
                       ?
-                      `${localStorage.getItem("subjects").split(",")[0]+"..." }` 
+                      `Study Plan` 
                       :
                       localStorage.getItem("subjects")}</div>
                       <div className='plan-box-opt-section'>

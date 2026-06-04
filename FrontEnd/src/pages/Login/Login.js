@@ -71,7 +71,7 @@ export default function Login() {
             <div className='ready-to-start-section'>
                 <div><h1>Ready to Ace Your Exams?</h1></div>
                 <div>Students can join and can use AI-powered study planning to achieve their academic goals.</div>
-                <div><button className='startJouBtn'>Start Your Journey</button></div>
+                <div><button className='startJouBtn' onClick={()=>{navigate("/dashboard")}}>Start Your Journey</button></div>
             </div>
             <div className='footer-copy-right'>
                 <div><span class="material-symbols-outlined">

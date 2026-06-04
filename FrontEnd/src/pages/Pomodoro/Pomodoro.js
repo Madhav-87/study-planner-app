@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
-import Header from './components/Header.jsx';
-import './Pormodoro.css'
+import Header from '../../components/Header/Header.jsx';
+import './Pomodoro.css'
 import { useNavigate } from 'react-router-dom';
 export default function Pormodoro() {
     const navigate = useNavigate();

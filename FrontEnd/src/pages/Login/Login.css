@@ -185,19 +185,262 @@
         transform: translateY(0px);
     }
 }
-@media (max-width:460px) {
-    .title-section{
-        width: 50%;
-    }
-    
-.title-headline {
-font-size: 25px;
+/* Large Tablets / Small Laptops (max-width: 1024px) */
+@media (max-width: 1024px) {
+  .title-headline {
+    font-size: 42px;
+  }
+
+  .title-subtxt {
+    width: 45%;
+  }
+
+  .title-cards-panel {
+    width: 90%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 }
-.title-subtxt{
+
+/* Tablets (max-width: 768px) */
+@media (max-width: 768px) {
+  .header-title {
+    padding-left: 16px;
+    padding-right: 20px;
+    height: 65px;
+  }
+
+  .title-section {
+    width: 35%;
+    font-size: 18px;
+  }
+
+  .title-headline-section {
+    height: auto;
+    padding: 50px 20px;
+  }
+
+  .title-headline {
+    font-size: 36px;
+    text-align: center;
+  }
+
+  .title-subtxt {
+    width: 65%;
     font-size: 16px;
-    width: 97%;
+  }
+
+  .title-cards-panel {
+    width: 95%;
+    padding-left: 10px;
+    padding-right: 10px;
+    column-gap: 20px;
+  }
+
+  .card {
+    max-width: 100% !important;
+    margin-bottom: 10px;
+  }
+
+  .ready-to-start-section h1 {
+    font-size: 26px;
+  }
+
+  .ready-to-start-section {
+    padding: 30px 20px;
+    font-size: 15px;
+  }
 }
-.card{
+
+/* Large Mobile (max-width: 600px) */
+@media (max-width: 600px) {
+  .header-title {
+    padding-left: 14px;
+    padding-right: 14px;
+    height: 60px;
+  }
+
+  .title-section {
+    width: 45%;
+    font-size: 17px;
+    gap: 6px;
+  }
+
+  .title-headline-section {
+    padding: 40px 16px;
+    gap: 14px;
+  }
+
+  .title-headline {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .title-subtxt {
+    width: 85%;
+    font-size: 15px;
+  }
+
+  .title-button-section {
+    height: auto;
+    gap: 12px;
+  }
+
+  .getStarted-btn {
+    width: 130px !important;
+    height: 38px;
+    font-size: 14px;
+  }
+
+  .title-cards-section {
+    min-height: auto;
+    padding: 20px 0;
+  }
+
+  .title-cards-panel {
+    grid-template-columns: 1fr;
+    width: 90%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .card {
+    max-width: 100% !important;
+    max-height: none !important;
     margin-bottom: 15px;
+  }
+
+  .card-body {
+    height: auto !important;
+  }
+
+  .ready-to-start-section {
+    padding: 30px 16px;
+  }
+
+  .ready-to-start-section h1 {
+    font-size: 22px;
+  }
+
+  .ready-to-start-section div {
+    font-size: 14px;
+  }
+
+  .footer-copy-right {
+    font-size: 13px;
+    padding: 0 10px;
+    text-align: center;
+  }
 }
+
+/* Small Mobile (max-width: 460px) */
+@media (max-width: 460px) {
+  .header-title {
+    padding-left: 12px;
+    padding-right: 12px;
+    height: 55px;
+  }
+
+  .title-section {
+    width: 55%;
+    font-size: 16px;
+  }
+
+  .title-headline-section {
+    padding: 35px 12px;
+    gap: 12px;
+  }
+
+  .title-headline {
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .title-subtxt {
+    font-size: 14px;
+    width: 97%;
+    text-align: center;
+  }
+
+  .getStarted-btn {
+    width: 120px !important;
+    height: 36px;
+    font-size: 13px;
+  }
+
+  .title-cards-panel {
+    width: 95%;
+  }
+
+  .card {
+    margin-bottom: 15px;
+    max-height: none !important;
+    max-width: 100% !important;
+  }
+
+  .card-body {
+    height: auto !important;
+    padding: 12px;
+  }
+
+  .ready-to-start-section {
+    padding: 25px 12px;
+    row-gap: 12px;
+  }
+
+  .ready-to-start-section h1 {
+    font-size: 20px;
+  }
+
+  .ready-to-start-section div {
+    font-size: 13px;
+  }
+
+  .startJouBtn {
+    font-size: 13px;
+    height: 33px;
+    padding: 8px;
+  }
+
+  .footer-copy-right {
+    font-size: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+  }
+}
+
+/* Extra Small Mobile (max-width: 360px) */
+@media (max-width: 360px) {
+  .title-section {
+    font-size: 14px;
+    width: 60%;
+  }
+
+  .title-headline {
+    font-size: 21px;
+  }
+
+  .title-subtxt {
+    font-size: 13px;
+    width: 100%;
+  }
+
+  .getStarted-btn {
+    width: 110px !important;
+    font-size: 12px;
+  }
+
+  .ready-to-start-section h1 {
+    font-size: 18px;
+  }
+
+  .ready-to-start-section div {
+    font-size: 12px;
+  }
+
+  .footer-copy-right {
+    font-size: 11px;
+  }
 }
