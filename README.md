@@ -1,10 +1,10 @@
-# IntelliStudy — AI-Powered Study Planner
+# 🎓 IntelliStudy — AI-Powered Study Planner
 
 IntelliStudy is a full-stack web application that helps students create personalized, AI-generated study plans. Upload your syllabus as a PDF, set your exam date and daily study hours, and the app builds a complete day-by-day schedule powered by Google Gemini AI. A built-in Pomodoro timer keeps you focused during every session.
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -19,7 +19,7 @@ IntelliStudy is a full-stack web application that helps students create personal
 
 ---
 
-## Features
+## ✨ Features
 
 - **AI Study Plans** — Upload a PDF syllabus and generate a full day-by-day study schedule from today to your exam date using Google Gemini 2.5 Flash
 - **Personalised Scheduling** — Subjects are distributed evenly across days, and topics progress from basic to advanced based on your chosen learning style
@@ -30,9 +30,9 @@ IntelliStudy is a full-stack web application that helps students create personal
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Client
+### 🎨 Client
 
 | Package | Purpose |
 |---|---|
@@ -44,7 +44,7 @@ IntelliStudy is a full-stack web application that helps students create personal
 | Bootstrap 5 | Base utility styles |
 | React Device Detect | Mobile/desktop layout switching |
 
-### Server
+### ⚙️ Server
 
 | Package | Purpose |
 |---|---|
@@ -59,7 +59,7 @@ IntelliStudy is a full-stack web application that helps students create personal
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 intellistudy/
@@ -105,15 +105,15 @@ intellistudy/
 
 ---
 
-## Prerequisites
+## ✅ Prerequisites
 
-- **Node.js** v18 or higher
-- **npm** v8 or higher
-- A **Google Gemini API key** — get one free at [Google AI Studio](https://aistudio.google.com/)
+- 🟢 **Node.js** v18 or higher
+- 📦 **npm** v8 or higher
+- 🔑 A **Google Gemini API key** — get one free at [Google AI Studio](https://aistudio.google.com/)
 
 ---
 
-## Installation
+## 🚀 Installation
 
 Clone the repository and install dependencies for both client and server:
 
@@ -132,9 +132,9 @@ npm install
 
 ---
 
-## Environment Variables
+## 🔐 Environment Variables
 
-### Client — `client/.env`
+### 🎨 Client — `client/.env`
 
 ```env
 REACT_APP_API=http://localhost:7000
@@ -144,7 +144,7 @@ REACT_APP_API=http://localhost:7000
 |---|---|
 | `REACT_APP_API` | Base URL of the backend API |
 
-### Server — `server/.env`
+### ⚙️ Server — `server/.env`
 
 Create a `.env` file inside the `server/` directory:
 
@@ -162,11 +162,11 @@ SERVER_PORT=7000
 
 ---
 
-## Running the App
+## ▶️ Running the App
 
 Both the client and server must be running at the same time. Open two terminal windows.
 
-**Terminal 1 — Start the server:**
+⚙️ **Terminal 1 — Start the server:**
 
 ```bash
 cd server
@@ -177,7 +177,7 @@ npm start
 Server is running on port: 7000
 ```
 
-**Terminal 2 — Start the client:**
+🎨 **Terminal 2 — Start the client:**
 
 ```bash
 cd client
@@ -188,7 +188,7 @@ The React app will open at `http://localhost:3000` and send API requests to `htt
 
 ---
 
-## App Pages & Routes
+## 🖥️ App Pages & Routes
 
 | Route | Page | Description |
 |---|---|---|
@@ -202,7 +202,7 @@ The study plan is displayed in a modal overlay on the Dashboard. It shows a week
 
 ---
 
-## API Documentation
+## 🔌 API Documentation
 
 Base URL: `http://localhost:7000`
 
@@ -273,7 +273,7 @@ Generates a full AI-powered study plan from a PDF syllabus and user inputs.
 }
 ```
 
-**Error Responses**
+⚠️ **Error Responses**
 
 | Scenario | Status | Response Body |
 |---|---|---|
@@ -283,7 +283,7 @@ Generates a full AI-powered study plan from a PDF syllabus and user inputs.
 
 ---
 
-## How It Works
+## ⚙️ How It Works
 
 ```
 User fills form + uploads PDF
@@ -315,6 +315,6 @@ The Gemini system instruction enforces a strict output contract so the client ca
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Madhav Bondhare**
